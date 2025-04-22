@@ -1,0 +1,17 @@
+{
+  "name": "discord-color-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that manages limited edition and custom colors",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Jij 😎",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.2.0",
+    "@discordjs/rest": "^1.6.0"
+  }
+}
